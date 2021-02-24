@@ -5,6 +5,10 @@ The task is to classify (supervised learning) and cluster (unsupervised learning
 
 ![Sample Images](sample_images.png)
 
+More details can be seen in the PDF documentation, which is uploaded on this repository.
+
+<hr>
+
 For this project, the methods I have tried are the following: 
   - Convolutional Neural Networks (supervised learning baseline), 
   - DBSCAN and K-means clustering (unsupervised learning methods to be compared)
